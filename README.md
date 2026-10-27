@@ -1,5 +1,5 @@
-# feriacyt2024
-feriacyt2024
+# feriacyt
+feriacyt
 
 
 Recorrido Virtual Edificio de Ingeniería en Sistemas computacionales 
